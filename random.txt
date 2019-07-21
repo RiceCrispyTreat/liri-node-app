@@ -1,1 +1,5 @@
-spotify-this-song,"I Want it That Way"
+spotify-this-song,"Black Dog"
+
+node liri.js spotify-this-song <insert song title>
+
+![Spotify](images\Spotify.png)
